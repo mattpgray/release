@@ -1,6 +1,6 @@
 package release
 
-func MyFunc(a string) string {
+func MyFunc(a int) int {
     return a
 }
 
