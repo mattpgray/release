@@ -1,6 +1,6 @@
-package testgorelease
+package release
 
-func MyFunc(a int) int {
+func MyFunc(a string) string {
     return a
 }
 
